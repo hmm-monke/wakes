@@ -1,4 +1,4 @@
-package com.goby56.wakes;
+package com.goby56.wakes; 
 
 import com.goby56.wakes.command.DebugCommand;
 import com.goby56.wakes.config.WakesConfig;
